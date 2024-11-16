@@ -10,6 +10,7 @@ pip install tkinter
 pip install os
 
 ================ Note ========================
+Make A Folder Name "data" in your Current Directory
 Replace your email and smtp email in app.py file
 Add Your Own Image Data
 Username = Alien
